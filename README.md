@@ -13,13 +13,11 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🌍 I'm based in Chennai
-- 🖥️ See my portfolio at ✨
-- ✉️ You can contact me at joycesondanielraj28@gmail.com
-- 🚀 I'm currently working on [Kings-LMS](http://kings-lms.vercel.app)
-- 🧠 I'm currently learning Networks and Linux
-- 💬 Ask me about Somehow managed to be alive
-
+- 🌍 I'm based in Chennai.
+- 🧠 I'm currently learning Networks and Linux.
+- 💬 Ask me about Somehow managed to be alive.
+- ☕ I love Caffeine on midnight.
+ 
 
 ## 🧠 My Focus Areas
 - Web+Security
