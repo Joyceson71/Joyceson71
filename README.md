@@ -16,7 +16,7 @@
 - 🌍 I'm based in Chennai.
 - 🧠 I'm currently learning Networks and Linux.
 - 💬 Ask me about Somehow managed to be alive.
-- ☕ I love Caffeine on midnight.
+- ☕ I love Caffeine at midnight.
  
 
 ## 🧠 My Focus Areas
