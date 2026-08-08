@@ -13,7 +13,6 @@
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🔭 I’m currently working on myself fr.
 - 💬 Ask me about nothing.
 - 🌍 I'm From Tuticorin.
 - 🧠 I'm currently learning Networks and Linux.
