@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=JD&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Part%20Time%20developer%20and%20Full%20time%20debugger&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Jodan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Part%20Time%20developer%20and%20Full%20time%20debugger&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=just%20exist,%20That's%20enough." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Just%20exist,%20That's%20enough." alt="Typing introduction" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 - 🌍 I'm From Tuticorin.
 - 🧠 I'm currently learning Networks and Linux.
 - ☕ I love Caffeine at midnight.
-- 💀 Somehow I managed to live
+- 💀 Somehow I managed to live.
 
 
 ## 🧠 My Focus Areas
