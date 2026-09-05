@@ -29,7 +29,7 @@
   <a href="https://github.com/Joyceson71">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joyceson71&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Joyceson71's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=Joyceson71&theme=dark&hide_border=true&cache_seconds=86400" alt="Joyceson71's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Joyceson71&theme=dark&hide_border=true&cache_seconds=86400" alt="Joyceson71's GitHub Streak" width="50%" />
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Joyceson71&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="JD's GitHub Trophies" />
