@@ -18,6 +18,7 @@
 - 🧠 I'm currently learning Networks and Linux.
 - ☕ I love Caffeine at midnight.
 - 💀 Somehow I managed to live.
+- 🫩 running on caffeine not by motivation 
 
 
 ## 🧠 My Focus Areas
